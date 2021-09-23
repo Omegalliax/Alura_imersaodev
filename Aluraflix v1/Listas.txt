@@ -1,0 +1,16 @@
+var listaFilmes = ["Yesterday", "A chegada", "Escola de Rock"];
+
+listaFilmes.push("Harry Potter");
+//var filme1 = "Yesterday";
+//var filme2 = "A chegada";
+//var filme3 = "Escola de Rock";
+//experimente o h1, strong
+//document.write("<p>" + listaFilmes[0]+ "</p>");
+//document.write("<p>" + listaFilmes[1]+ "</p>");
+//document.write("<p>" + listaFilmes[2]+ "</p>");
+//document.write("<p>" + listaFilmes[3]+ "</p>");
+
+// valor inicial, condição. expressão final
+//for (var indice = 0; indice < 4; indice++) {
+  //document.write("<p>" + listaFilmes[indice] + "<p>");
+}
