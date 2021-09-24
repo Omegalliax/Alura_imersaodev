@@ -23,8 +23,8 @@ function exibeJogadoresNaTela(jogadores) {
   elemento += "<td>" + jogadores[i].pontos + "</td>";
   elemento +=
     "<td><button onClick='adicionarVitoria(" + i + ")'>Vitória</button></td>";
-  elemento += "<td><button onClick='adicionarEmpate()''>Empate</button></td>";
-  elemento += "<td><button onClick='adicionarDerrota()''>Derrota</button></td>";
+  elemento += "<td><button onClick='adicionarEmpate("+ i +")''>Empate</button></td>";
+  elemento += "<td><button onClick='adicionarDerrota("+ i +")''>Derrota</button></td>";
   elemento += "</tr>";
 }
 
