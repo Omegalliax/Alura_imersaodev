@@ -2,7 +2,7 @@ var carta1 = {
     nome: "Pikachu",
     atributos: {
       ataque: 10,
-      defesa: 0,
+      defesa: 4,
       AP: 6
     }
   };
